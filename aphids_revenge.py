@@ -1,3 +1,8 @@
+# Title: Aphid's Revenge - A Text based Adventure Game
+# Name: Michael Rogers
+# Date: 1/8/2023
+# This game was started as a project in my first programming class. I made a few updates and corrections to use it for the CS101 final project in Codecademy.
+
 # function that outputs game title and instructions to the user
 def show_instructions():
     print('Aphid\'s Revenge: A Text Adventure Game')
